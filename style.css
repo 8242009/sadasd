@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background-image: url("https://i.ytimg.com/vi/ZALLJ9GuSCs/maxresdefault.jpg");
+}
+h1{
+    font-size: 50px;
+    color: #B6977D;
+}
+input{
+    background-color: #836853;
+    color:wheat;
+}
+div{
+    color: #D1C3B7;
+    font-size:large;
+}
+hr {
+    border-top: 5px dotted #AC9D8E;
+  }
